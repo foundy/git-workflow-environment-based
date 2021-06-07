@@ -11,7 +11,7 @@ function App() {
         <meta name="description" content="environment-based branching strategy" />
         <meta property="og:type" content="article" />
         <meta property="og:title" content="title" />
-        <meta property="og:url" content="https://foundy.io" />
+        <meta property="og:url" content="https://blog.foundy.io" />
       </Helmet>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
