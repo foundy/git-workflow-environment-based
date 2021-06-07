@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Helmet>
         <title>Git Workflow Demo</title>
+        <meta property="og:type" content="article" />
       </Helmet>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
