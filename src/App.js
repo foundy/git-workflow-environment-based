@@ -10,6 +10,7 @@ function App() {
         <title>Git Workflow Demo</title>
         <meta name="description" content="environment-based branching strategy" />
         <meta property="og:type" content="article" />
+        <meta property="og:title" content="title" />
         <meta property="og:url" content="https://foundy.io" />
       </Helmet>
       <header className="App-header">
