@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Helmet>
         <title>Git Workflow Demo</title>
+        <meta name="description" content="environment-based branching strategy" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://foundy.io" />
       </Helmet>
