@@ -1,9 +1,16 @@
+import { Helmet } from 'react-helmet'
+
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <Helmet>
+        <title>Git Workflow Demo</title>
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://foundy.io" />
+      </Helmet>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
